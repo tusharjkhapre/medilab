@@ -109,12 +109,3 @@ We welcome contributions to improve MediLab. To contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 ```
-
-### Usage:
-1. Copy the code above.
-2. Open a text editor (e.g., Visual Studio Code).
-3. Create a new file called `README.md` in your project folder.
-4. Paste the content into the file.
-5. Make sure to update the repository URL, license, and image paths as needed (e.g., `./images/banner.png`).
-
-You can customize further, especially if your web app has more specific requirements or features.
